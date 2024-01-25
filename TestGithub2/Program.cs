@@ -11,6 +11,7 @@ namespace TestGithub2
         static void Main(string[] args)
         {
             Console.WriteLine("Hellow world");
+            Console.WriteLine("Hellow world");
         }
     }
 }
